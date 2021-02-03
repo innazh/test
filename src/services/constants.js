@@ -1,0 +1,1 @@
+export var APIurl = "https://emphasoft-test-assignment.herokuapp.com";
